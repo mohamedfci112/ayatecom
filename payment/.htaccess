@@ -1,0 +1,7 @@
+
+# HTID:8084459: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile "/storage/ssd4/780/8348780/public_html/payment/.htpasswd"
+Require user ayatecom2019
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:8084459:
